@@ -1,3 +1,3 @@
-# Toto je můj projekt
+# Projekt zaměřený na typografii
 
-Zde si můžete **stáhnout** a i dále "rozvíjet" mojí práci.
+Zde si můžete **stáhnout** šablonu a i dále rozvíjet mou práci.
